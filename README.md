@@ -4,7 +4,7 @@ The [Street View House Numbers (SVHN) Dataset](https://www.tensorflow.org/datase
 ![image](images/svhn_cropped.png)
 ## Clone recursively
 ``` shell
-git clone https://github.com/yahyoxonqwe/SVHN_dataset.git
+git clone https://github.com/airiuz/SVHN_dataset.git
 ```
 ## Enter this file
 ``` shell
